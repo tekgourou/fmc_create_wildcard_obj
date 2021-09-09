@@ -10,7 +10,7 @@ password = 'FMC PASSWORD'
 autodeploy = False
 wildcard_count = 256
 group_name = 'WILDCARD OBJECT GROUP NAME'
-subnet_object_name_prefix = 'subnet_wildcard_1'
+subnet_object_name_prefix = 'subnet_wildcard'
 subnet_object_value_wildcard = '10.56.x.0/26'
 
 # Script
